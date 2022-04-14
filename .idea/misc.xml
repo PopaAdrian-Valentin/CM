@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/drawable-v24/backgroundcrop.xml" value="0.278" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/drawable-v24/ic_baseline_keyboard_arrow_right_24.xml" value="0.278" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/drawable/colors.xml" value="0.1385" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/drawable/shape_circle_background.xml" value="0.196" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/drawable/shape_circular_progress.xml" value="0.196" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/layout/activity_add_exercitiu.xml" value="0.36666666666666664" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/layout/activity_antrenament.xml" value="0.22727272727272727" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/layout/activity_antrenament1.xml" value="0.264" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/layout/activity_creare.xml" value="0.33" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/layout/activity_exercitiu.xml" value="0.36666666666666664" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/layout/exercitiu_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/D/facultate/anul4sem2/Proiect/app/src/main/res/menu/popup_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
