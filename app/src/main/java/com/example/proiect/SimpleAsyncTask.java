@@ -15,7 +15,7 @@ public class SimpleAsyncTask extends AsyncTask<Void, Void, String> {
     @Override
     protected String doInBackground(Void... voids) {
 
-        int n = 30000;
+        int n = 1000;
 
         // Sleep for the random amount of time
         try {
