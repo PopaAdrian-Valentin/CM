@@ -19,7 +19,7 @@ public class Antrenament1 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_antrenament1);
 
-        buttonstart=findViewById(R.id.startAntrenament1);
+        buttonstart=findViewById(R.id.btn_viewant1);
         buttonstart.setOnClickListener(view -> {
             Intent intent = new Intent(Antrenament1.this, ExercitiuActivity.class);
             startActivity(intent);

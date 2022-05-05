@@ -15,14 +15,14 @@
         android:textColor="#000000"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/scrollView2"
+        app:layout_constraintBottom_toTopOf="@+id/sc_ant1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
 
     <ScrollView
-        android:id="@+id/scrollView2"
+        android:id="@+id/sc_ant1"
         android:layout_width="fill_parent"
         android:layout_height="250dp"
         android:scrollbars="none"
@@ -117,7 +117,7 @@
                 </LinearLayout>
 
                 <Button
-                    android:id="@+id/startAntrenament1"
+                    android:id="@+id/btn_viewant1"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="10.0dp"
@@ -138,7 +138,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/scrollView2"
+        app:layout_constraintTop_toBottomOf="@+id/sc_ant1"
         app:layout_constraintVertical_bias="0.0"
         tools:ignore="MissingConstraints">
 
